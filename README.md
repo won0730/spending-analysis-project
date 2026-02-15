@@ -2,7 +2,7 @@
 
 python과 SQL을 활용하여 소비 데이터를 분석하고 시각화하는 프로그램
 
-## 사용 언어 및 라이브러
+## 사용 언어 및 라이브러리
 - **Language**: Python
 - **Database**: MySQL
 - **Library**: Pandas, Matplotlib, Seaborn
